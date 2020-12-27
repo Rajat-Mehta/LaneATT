@@ -1,0 +1,5 @@
+experiments/*
+venv/*
+*.pyc
+tensorboard/*
+lib/nms/
